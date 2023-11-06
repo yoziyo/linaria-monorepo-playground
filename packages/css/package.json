@@ -1,0 +1,17 @@
+{
+  "name": "@kpds/css",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@kpds/tokens": "workspace:^"
+  },
+  "dependencies": {
+    "@linaria/core": "^5.0.2",
+    "@linaria/react": "^5.0.3"
+  }
+}
